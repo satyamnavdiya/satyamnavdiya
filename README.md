@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,npm,express,nestjs,mongodb,mysql,js,ts,html,css,tailwind,bootstrap,gsap,git,figma&theme=light,postman,github,vscode,webstorm,sublime,netlify,vercel,nginx,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,npm,express,nestjs,mongodb,mysql,js,ts,html,css,tailwind,bootstrap,gsap,git,figma,postman,github,vscode,webstorm,sublime,netlify,vercel,nginx,ubuntu" />
 </p>
 
 ---
