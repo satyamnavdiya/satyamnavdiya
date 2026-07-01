@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Next.js, GSAP, and MERN projects**
 - 🌱 I’m learning more about **modern frontend animation & full-stack scalability**
-- 🏢 I work at **[Codespire Surat](https://codespiresurat.vercel.app/)**
+- 🏢 I work at **[Codespire Surat](https://codespire.in/)**
 - 💬 Ask me about **Next.js, React, MongoDB, Express.js, GSAP animations**
-- 📫 Reach me at: **satyamnavdiya.email@example.com**
+- 📫 Reach me at: **satyamnavdiya.email@.com**
 - ⚡ Fun fact: *I animate pixels and caffeinate bugs! ☕*
 
 ---
